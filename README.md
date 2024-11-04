@@ -1,5 +1,7 @@
 # Machine Learning Project(Lecture 1083)
 
+# nbviewer Link : https://gist.github.com/Blackiew57/b6647f39f5e35e2eb0e62a58410dc413
+
 ## Overview
 This project analyzes the RMS Titanic passenger data to predict survival outcomes. Developed as part of a Machine Learning course at SahmYook University, it showcases various data analysis techniques and machine learning models.
 
