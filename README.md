@@ -39,12 +39,13 @@ We implemented and compared several models:
 
 ## Results
 
-Our analysis revealed several key factors influencing survival rates on the Titanic:
+My analysis revealed several key factors influencing survival rates on the Titanic:
 
-1. Gender: Women had a significantly higher survival rate than men.
-2. Class: First-class passengers were more likely to survive than those in second or third class.
-3. Age: Children had a higher chance of survival compared to adults.
-4. Family size: Passengers traveling with small families had better survival rates.
+1. Gender: Women had a significantly higher survival rate than men. This was likely due to the "women and children first" policy during evacuation.
+2. Class: First-class passengers were more likely to survive than those in second or third class. This trend was consistent across all embarkation points.
+3. Age: Children had a higher chance of survival compared to adults. The most common age group was passengers in their 20s and 30s.
+4. Embarkation Point: Most passengers boarded at Southampton (S), followed by Cherbourg (C), and then Queenstown (Q). 
+5. Fare: There was a positive correlation between fare price and survival rate. First-class passengers paid significantly higher fares and had higher survival rates.
 
 
 ---
